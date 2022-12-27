@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/config-server/ConfigServer.iml" filepath="$PROJECT_DIR$/config-server/ConfigServer.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/JA-4-Lib.iml" filepath="$PROJECT_DIR$/.idea/JA-4-Lib.iml" />
       <module fileurl="file://$PROJECT_DIR$/book-service/book-service.iml" filepath="$PROJECT_DIR$/book-service/book-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/client-service/client-service.iml" filepath="$PROJECT_DIR$/client-service/client-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka.iml" filepath="$PROJECT_DIR$/eureka-server/eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-config-properties/ms-config-properties.iml" filepath="$PROJECT_DIR$/ms-config-properties/ms-config-properties.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul-gateway/zuul-service.iml" filepath="$PROJECT_DIR$/zuul-gateway/zuul-service.iml" />
     </modules>
   </component>
 </project>

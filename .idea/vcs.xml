@@ -7,5 +7,6 @@
     <mapping directory="$PROJECT_DIR$/config-server" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/eureka-server" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ms-config-properties" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/zuul-gateway" vcs="Git" />
   </component>
 </project>
